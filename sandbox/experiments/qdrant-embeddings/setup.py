@@ -10,7 +10,7 @@ setup(
         "openai==0.27.5",
         "fastapi==0.95.1",
         "pydantic~=1.10.7",
-        "qdrant-client==1.1.6",
+        "qdrant-client==1.9.0",
     ],
     extras_require={
         "dev": [
